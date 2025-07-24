@@ -112,8 +112,8 @@ All values must be **normalized** between `0.0` and `1.0`.
 - Replace `alarm.wav` with any other `.wav` file of your choice.
 
 ## 🖼️ Sample Output
-
-> *(screenshots showing bounding boxes and detection results)*
+<img width="1280" height="854" alt="image--1-" src="https://github.com/user-attachments/assets/a5bf2d7b-f5f2-4baf-9997-1655c27b6530" />
+![1 -detection_2](https://github.com/user-attachments/assets/44c93f59-241b-41dd-a5c5-a1921098823d)
 
 ![Elephant Detection](./image01.webp)
 
