@@ -5,6 +5,7 @@ import pygame
 
 model = YOLO("best.pt")
 cap = cv2.VideoCapture(0)
+target_ids = [20, 21]  # Elephant, Bear
 target_ids = [20, 21]  # animal ID's
 alarm_playing = False
 
