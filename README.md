@@ -1,4 +1,4 @@
-# 🐘 WILD EYE: Wild Animal Intrusion Detection System (IDS)_
+# 🐘 WILD AWARE: Wild Animal Intrusion Detection System (IDS)_
 
 > A real-time wildlife detection system using **YOLOv8** to identify **elephants** and **bears** via webcam and trigger an **alarm** for early warning.
 
